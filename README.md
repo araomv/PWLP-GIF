@@ -3,4 +3,4 @@ Code to support the publication: Glottal inverse filtering using probabilistic w
 
 check demo1.m.
 
-Code is yet to be upadted.
+Code is yet to be updated.
